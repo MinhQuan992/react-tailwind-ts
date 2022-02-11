@@ -12,7 +12,7 @@
   }
 
   .btn-primary {
-    @apply bg-indigo-500 text-white
+    @apply bg-brand text-white
   }
 
   .btn-secondary {
